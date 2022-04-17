@@ -1,3 +1,5 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* npx tailwindcss -i ./style.css -o ./output.css */
